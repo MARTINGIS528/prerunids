@@ -1,0 +1,16 @@
+<Line number="182" name="" type="rad" carrier="IDSBBSK" direction="Michalová, Rohozná a Podkoreňová">
+	<Connection number="18">
+		<Stop arrive="13:02:00" departure="13:02:00" displayname="Michalová, Trosky" readname="Michalová, Trosky" idszone="419" ondemand="false" lat="48.7664069" lon="19.7699947"/>
+		<Stop arrive="13:03:00" departure="13:03:00" displayname="Michalová, Kubická" readname="Michalová, Kubická" idszone="400" ondemand="false" lat="48.7727089" lon="19.7579481"/>
+		<Stop arrive="13:05:00" departure="13:05:00" displayname="Brezno, Rohozná, Hlin. potok" readname="Brezno, Rohozná, Hlinický potok" idszone="400" ondemand="false" lat="48.7811853" lon="19.7378692"/>
+		<Stop arrive="13:07:00" departure="13:07:00" displayname="Brezno, Rohozná Brezinky" readname="Brezno, Rohozná, Brezinky" idszone="400" ondemand="false" lat="48.7912103" lon="19.7220878"/>
+		<Stop arrive="13:08:00" departure="13:08:00" displayname="Brezno, Rohozná, ZŠ" readname="Brezno, Rohozná, Základná škola" idszone="400" ondemand="false" lat="48.7940828" lon="19.7135047"/>
+		<Stop arrive="13:09:00" departure="13:09:00" displayname="Brezno, Rohozná, Kozí dvor" readname="Brezno, Rohozná, Kozí dvor" idszone="400" ondemand="false" lat="48.7954864" lon="19.7011356"/>
+		<Stop arrive="13:10:00" departure="13:10:00" displayname="Brezno, Rohozná, Zúbrik" readname="Brezno, Rohozná, Zúbrik" idszone="400" ondemand="false" lat="48.7980767" lon="19.6880283"/>
+		<Stop arrive="13:12:00" departure="13:12:00" displayname="Brezno, Podkoreň., Rázcestie" readname="Brezno, Podkoreňová, Rázcestie" idszone="400" ondemand="false" lat="48.8005944" lon="19.6624564"/>
+		<Stop arrive="13:13:00" departure="13:13:00" displayname="Brezno, Podkoreňová, Farma" readname="Brezno, Podkoreňová, Farma" idszone="400" ondemand="false" lat="48.8015328" lon="19.6573181"/>
+		<Stop arrive="13:14:00" departure="13:14:00" displayname="Brezno, Pod zeleným stromom" readname="Brezno, Pod zeleným stromom" idszone="400" ondemand="false" lat="48.8055231" lon="19.6482297"/>
+		<Stop arrive="13:17:00" departure="13:17:00" displayname="Brezno, ul. ČSA" readname="Brezno, Ulica československej armády" idszone="400" ondemand="false" lat="48.8074658" lon="19.6386633"/>
+		<Stop arrive="17:54:00" departure="17:54:00" displayname="Brezno, Krčulova" readname="Brezno, Krčulova" idszone="400" ondemand="false" lat="48.8070381" lon="19.6342600"/>
+	</Connection>
+</Line>
